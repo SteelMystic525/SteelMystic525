@@ -108,13 +108,6 @@ Multi-page personal portfolio with a purple-black space theme, animated starfiel
 
 ---
 
-## 🏆 Achievements
-
-- 🥈 **Runner Up — Silicon Sprint 2026** · Systolic Array Accelerator in 24 hours
-- 🚀 **Pre-Finalist — UniSys 2025** · Autonomous hospital logistics with ROS2 & computer vision
-- 🏅 **Stage II — eYantra (IIT Bombay) ×2** · 2025 & 2026
-
----
 
 ## 📊 GitHub Stats
 
@@ -122,7 +115,6 @@ Multi-page personal portfolio with a purple-black space theme, animated starfiel
 
 ![Sudhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteelMystic525&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=07050f&title_color=b07fff&icon_color=b07fff&text_color=ede8f5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteelMystic525&layout=compact&theme=midnight-purple&hide_border=true&bg_color=07050f&title_color=b07fff&text_color=ede8f5)
 
 </div>
 
