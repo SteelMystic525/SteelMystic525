@@ -31,7 +31,7 @@ Learning: Advanced RTL verification & SoC design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -58,7 +58,7 @@ Learning: Advanced RTL verification & SoC design
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
