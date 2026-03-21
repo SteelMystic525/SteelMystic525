@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **third-year Electronics & Communication Engineering** student at **R.V. College of Engineering, Bangalore** (GPA 9.2/10), with a deep interest in **digital design, computer architecture, and embedded systems**.
 
@@ -24,9 +24,9 @@ I tinker with FPGAs and microcontrollers, build things I get curious about, and 
 
 ```
 📍 Bangalore, India
-🎓 B.E. ECE @ RVCE  |  2023 – 2027
-🔭 Currently building: RISC-V 32I CPU targeting tape-out
-🌱 Learning: Advanced RTL verification & SoC design
+B.E. ECE @ RVCE  |  2023 – 2027
+Currently building: RISC-V 32I CPU targeting tape-out
+Learning: Advanced RTL verification & SoC design
 ```
 
 ---
