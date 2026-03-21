@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-steelmystic525.github.io-7B2FBE?style=for-the-badge&logoColor=white)](https://steelmystic525.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu%20H-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-h/)
-[![Email](https://img.shields.io/badge/Gmail-sudhanshu.355-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu.355@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-sudhanshuh.355-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu.355@gmail.com)
 
 </div>
 
