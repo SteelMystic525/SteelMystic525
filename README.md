@@ -58,57 +58,6 @@ Learning: Advanced RTL verification & SoC design
 
 ---
 
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚙️ RISC-V 32I CPU
-**SystemVerilog · FPGA**
-
-Full implementation of a RISC-V 32I CPU in SystemVerilog, targeting tape-out.
-
-</td>
-<td width="50%">
-
-### 🖼️ Streaming Image Processing Accelerator
-**SystemVerilog · Python · FPGA**
-
-Real-time convolution accelerator with parallel Sobel/Prewitt/Laplacian edge detection. Fully pipelined, zero full-frame memory.
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-7B2FBE?style=flat-square&logo=github)](https://github.com/SteelMystic525/sip-accelerator)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 Multiport Memory Arbiter with QoS
-**Verilog · Python · FPGA**
-
-Hardware memory arbiter with Quality of Service scheduling.
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-7B2FBE?style=flat-square&logo=github)](https://github.com/SteelMystic525/mpma)
-
-</td>
-<td width="50%">
-
-### 🌐 Personal Website
-**HTML · CSS · JavaScript**
-
-Multi-page personal portfolio with a purple-black space theme, animated starfield, and nebula effects.
-
-[![Live](https://img.shields.io/badge/Live-steelmystic525.github.io-7B2FBE?style=flat-square&logo=github)](https://steelmystic525.github.io)
-
-</td>
-</tr>
-</table>
-
----
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
