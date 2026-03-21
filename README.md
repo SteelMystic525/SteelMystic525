@@ -58,18 +58,6 @@ I tinker with FPGAs and microcontrollers, build things I get curious about, and 
 
 ---
 
-## 💼 Experience
-
-| Role | Organisation | Period |
-|------|-------------|--------|
-| 🔬 RTL Design Intern (VSP) | Raman Research Institute | Aug – Dec 2025 |
-| 🤖 Rover Lead | Astra Robotics, RVCE | Jan 2026 – Present |
-
-**@ Raman Research Institute** — Built a real-time phase accumulator on FPGA at 100–200 MHz, optimized dual-port BRAM memory, and designed a fully pipelined datapath with near-zero idle cycles.
-
-**@ Astra Robotics** — Leading a 20+ member team building a Mars rover for the University Rover Challenge, coordinating across mechanical, electronics, and software teams.
-
----
 
 ## 🚀 Featured Projects
 
