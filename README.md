@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a **4th year Electronics & Communication Engineering** student at **R.V. College of Engineering, Bangalore** (CGPA 9.21/10) and upcoming Physical Design Intern at Qualcomm, with a deep interest in **digital design, computer architecture, and embedded systems**.
+I'm a **4th year Electronics & Communication Engineering** student at **R.V. College of Engineering, Bangalore** (CGPA 9.21/10) and upcoming Physical Design Intern at Qualcomm, with a deep interest in **digital design, computer architecture, embedded systems and Robotics**.
 
 I tinker with FPGAs and microcontrollers, build things I get curious about, and work at the intersection of hardware and systems. Currently leading the rover team at **Astra Robotics** and previously a **Visiting Student Professional at Raman Research Institute**.
 
